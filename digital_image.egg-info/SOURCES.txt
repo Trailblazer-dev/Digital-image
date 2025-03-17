@@ -1,0 +1,12 @@
+README.md
+setup.py
+digital_image/__init__.py
+digital_image/basic_operations.py
+digital_image/filters.py
+digital_image/segmentation.py
+digital_image/transformations.py
+digital_image.egg-info/PKG-INFO
+digital_image.egg-info/SOURCES.txt
+digital_image.egg-info/dependency_links.txt
+digital_image.egg-info/requires.txt
+digital_image.egg-info/top_level.txt
